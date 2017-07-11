@@ -1,4 +1,4 @@
 # GitHub-practice
 
 For praticing github operations from command line
-Starting data July 11
+Starting date July 11
